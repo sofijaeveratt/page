@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    flex-direction:column;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    min-height: 100vh;
+  }
+
+
+
+
+
+.container1, .footer {
+    background-color: #1f2937;
+}
+.container1.header{
+    display:flex;
+}
+.logo {
+    display: flex;
+}
+
+.container3 {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.title {
+    height: 48px;
+    font-weight:bolder;
+    color: #f9faf8;
+}
+.description, .links {
+    height: 18px;
+    color: #E5E7EB;
+}
+.logo {
+    height: 24px;
+    color: #F9FAF8;
+}
+.action {
+    padding: 25px;
+    color: #3882F6;
+}
+.button.signup {
+    color: #3882F6;
+}
+.container2.header {
+    font-size: 36px;
+    font-weight:bolder;
+    color: #1F2937;
+
+}
