@@ -47,7 +47,7 @@ body {
     color: #f9faf8;
 }
 .image {
-    width: 50px;
+    width: 10px;
     height: auto;
 }
 
@@ -63,9 +63,9 @@ body {
     justify-content: center;
 }
 
-.container2.products {
+.products {
     justify-content: center;
-    width: 50px;
+    width: 10px;
     height: auto;
 }
 
