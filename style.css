@@ -13,7 +13,7 @@ img {
     background-color: #1f2937;
     flex-shrink: 1;
 }
-.container1.header{
+.container1 .header{
     display:flex;
     justify-content: space-between;
 }
@@ -42,7 +42,7 @@ img {
     flex-direction: column;
 }
 
-.container111.title {
+.container111 .title {
     height: 48px;
     font-weight:bolder;
     color: #f9faf8;
@@ -58,7 +58,7 @@ img {
     flex-shrink: 1;
 }
 
-.container2.header {
+.container2 .header {
     font-size: 36px;
     font-weight:bolder;
     color: #1F2937;
@@ -77,14 +77,14 @@ img {
     justify-content: center;
 }
 
-.container3.quote {
+.container3 .quote {
     justify-content: center;
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
 }
 
-.container3.author {
+.container3 .author {
     justify-content: right;
     font-style: bold;
 }
@@ -99,7 +99,7 @@ img {
     color: #3882F6;
 }
 
-.container4.left {
+.container4 .left {
     display: flex;
     justify-content: left;
 }
